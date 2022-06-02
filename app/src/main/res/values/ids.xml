@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btVar1" type="id" />
+    <item name="tvVar1" type="id" />
+    <item name="ivVar1" type="id" />
+    <item name="ivVar2" type="id" />
+</resources>
